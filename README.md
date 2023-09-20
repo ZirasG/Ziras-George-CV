@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Packet Sniffing & Network Traffic Analysis using Python</b>
-  - [Packet Sniffing in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Packet Sniffing in Python
 
 - <b>Python</b>
-  - [....................)]
+  - []
 
 <h2>📃 Certifications: </h2>
 
