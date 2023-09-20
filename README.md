@@ -2,13 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Packet Sniffing & Network Traffic Analysis using Python</b>
-  - Packet Sniffing in Python
+- <b>[Penetration Testing Report](https://github.com/ZirasG/Penetration-Testing-Report) </b>
+  - The Marketplace's Website (room) from TryHackMe Plaform
+  - Building a Penetration Testing Report
 
-- <b>Python</b>
-  - []
-
-<h2>📃 Certifications: </h2>
+<h2>📃 Certifications & Diplomas: </h2>
 
 - <b> Master of Science (MSc) in Cyber Security & New Technologies
 - <b> [Cyber Security Analyst+ (CySA+)](https://www.credly.com/badges/d50799b8-7aec-4e98-92e9-a921d942d314) </b><br>
