@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[Penetration Testing Report](https://github.com/ZirasG/Penetration-Testing-Report) </b>
-  - The Marketplace's Website (room) from TryHackMe Plaform
+  - The Marketplace's Website (room) from TryHackMe Platform
   - Building a Penetration Testing Report
 
 <h2>📃 Certifications & Diplomas: </h2>
