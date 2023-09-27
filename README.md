@@ -6,7 +6,7 @@
   - [The Marketplace's infrastructure](https://tryhackme.com/room/marketplace) Website (room) from TryHackMe Platform
   - Building a Penetration Testing Report
 
-- <b> Simulating Local Area Network Attacks and Mitigation Techniques </b> (Coming soon...)
+- <b> [Simulating Local Area Network Attacks and Mitigation Techniques](https://github.com/ZirasG/Simulating-Local-Area-Network-Attacks-and-Mitigation-Techniques) </b>
   - DHCP starvation και DHCP spoofing Attack and Mitigation
   - ARP Spoofing/ARP Poisoning Attack and Mitigation
   - MAC Address Table Flooding Attack and Mitigation
