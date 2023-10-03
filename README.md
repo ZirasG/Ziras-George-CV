@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Penetration Testing Report - The Marketplace](https://github.com/ZirasG/Penetration-Testing-Report) </b>
+- <b>[Penetration Testing & Report - The Marketplace](https://github.com/ZirasG/Penetration-Testing-Report) </b>
   - [The Marketplace's infrastructure](https://tryhackme.com/room/marketplace) Website (room) from TryHackMe Platform
   - Building a Penetration Testing Report
 
@@ -12,6 +12,9 @@
   - MAC Address Table Flooding Attack and Mitigation
   - VLAN Hopping and Double-Tagging Attack and Mitigation
   - Spannig Tree Protocol (STP) Attacks and Mitigation
+
+- <b> [Penetration Testing & Report - Relevant] (Coming soon...)
+  - [Relevant - Pentest Challenge](https://tryhackme.com/room/relevant) (room) from TryHackMe Platform</b>
 
 <h2>📃 Certifications & Diplomas: </h2>
 
