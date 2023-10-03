@@ -17,8 +17,8 @@
 
 - <b> Master of Science (MSc) in Digital Systems Security - University of Piraeus (in progress...)</b><br>
 - <b> Master of Science (MSc) in Cyber Security & New Technologies - IST College(Athens) - California Metropolitan University </b><br>
-- <b> [Cyber Security Analyst+ (CySA+)](https://www.credly.com/badges/d50799b8-7aec-4e98-92e9-a921d942d314) </b><br>
-- <b> [Penetration Tester+ (PenTest+)](https://www.credly.com/badges/8be6401d-9a06-4dad-af5a-f7a1646054be) </b><br>
+- <b> [CompTIA - Cyber Security Analyst+ (CySA+)](https://www.credly.com/badges/d50799b8-7aec-4e98-92e9-a921d942d314) </b><br>
+- <b> [CompTIA - Penetration Tester+ (PenTest+)](https://www.credly.com/badges/8be6401d-9a06-4dad-af5a-f7a1646054be) </b><br>
 - <b> Junior Penetration Tester Learning Path (THM)</b><br>
 - <b> Web Fundamentals Learning Path (THM)</b><br>
 - <b>Training for Information Security Systems & Networks (Greek Army)</b><br>
